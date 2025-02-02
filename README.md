@@ -6,16 +6,22 @@ Here’s a breakdown of the folders and what they contain:
 
 1️⃣ C Programming
 Various C programming projects and exercises.
+
 2️⃣ OOP using C++
 Object-Oriented Programming (OOP) concepts and implementations using C++.
+
 3️⃣ Python Learning Projects
 Small projects and experiments to enhance my Python skills.
+
 4️⃣ Matplotlib Learning Projects
 Data visualization projects using Matplotlib.
+
 5️⃣ Numerical Optimization
 Implementations of optimization techniques like gradient descent,ADAM,BGFS,Adagrad, and other optimiziers.
+
 6️⃣ Random Search 
 Experiments with random search algorithms.
+
 🎮 Fun Side Projects
 some other fun projects I'm working on not specfically assigned to me by ITI
 
