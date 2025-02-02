@@ -1,4 +1,5 @@
-Korayem's Learning Projects Repository
+*My Learning Projects Repository*
+
 Welcome to my personal repository! This is where I store and showcase my coding projects, and document my journey through ITI's 9-Month program in AI&ML.
 
 📂 Repository Structure (will be updated regularly **hopefully**) 
