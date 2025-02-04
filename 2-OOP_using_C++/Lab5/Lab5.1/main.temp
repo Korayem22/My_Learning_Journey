@@ -1,0 +1,48 @@
+#include <iostream>
+
+using namespace std;
+class Point{
+private:
+    int x;
+    int y;
+public:
+    Point(){
+        x=0;
+        y=0;
+    }
+    Point(int m, int n){
+        x=m;
+        y=n;
+    }
+    void setX(int m){
+        x=m;
+    }
+    void setY(int n){
+        y=n;
+    }
+    int getX(){
+        return x;
+    }
+    int getY(){
+        return y;
+    }
+};
+class Line{
+private:
+    Point start;
+    Point end_;
+public:
+    Line():start(),end_();
+    {cout<<"in line const."};
+    Line(int x1, int y1, int x2,int y2): start(x1,y1),end_(x2,y2){cout<<"in line const."};
+};
+class Circle{
+private:
+
+};
+
+int main()
+{
+    cout << "Hello world!" << endl;
+    return 0;
+}
